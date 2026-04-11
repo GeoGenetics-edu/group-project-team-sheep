@@ -43,6 +43,7 @@
 | Guillermo Rangel (GR) | guillermo.pineros@sund.ku.dk |
 | Mateu Menéndez-Serra (MMS) | |
 | Amalia Bogri (AB) | |
+| Bent Petersen (BP) | |
 
 ## Repository structure
 
