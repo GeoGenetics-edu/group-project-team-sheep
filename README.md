@@ -4,10 +4,10 @@
 
 | Member | KU-ID |
 |--------|-------|
-| _Name_ | _abc123_ |
-| _Name_ | _abc123_ |
-| _Name_ | _abc123_ |
-| _Name_ | _abc123_ |
+| Kian B | rwl997 |
+| Gabriel | jdg143 |
+| Emil | nrf382 |
+| Nicklas | _abc123_ |
 
 ## Links
 
