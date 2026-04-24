@@ -1,6 +1,6 @@
 # NBIB25004U — Metagenomics Analyses for Microbiomes 2026
 
-## Group _N_
+## Group Sheep
 
 | Member | KU-ID |
 |--------|-------|
